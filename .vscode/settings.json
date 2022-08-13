@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.run": "onType",
+  "eslint.codeActionsOnSave.rules": null,
+  "eslint.format.enable": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "cSpell.words": [
+    "semibold"
+  ],
+  "cSpell.enableFiletypes": [
+    "!markdown"
+  ]
+}
